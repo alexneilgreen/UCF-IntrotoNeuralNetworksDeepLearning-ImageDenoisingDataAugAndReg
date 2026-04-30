@@ -174,7 +174,7 @@ python AnalyzeReg.py
 | ---------------- | ------------------------------------------------------------------ | ---------------------------------------------- |
 | Alexander Green  | Model architecture, training pipeline, augmentation implementation | [@AlexGreen](https://github.com/AlexGreen)     |
 | Joshua Glaspey   | Dataset preparation, regularization experiments, analysis scripts  | [@JoshGlaspey](https://github.com/JoshGlaspey) |
-| Arthur Radulescu | [Role — please provide]                                            | [@username](https://github.com/username)       |
+| Arthur Radulescu | Test and Review, Writing Paper                                     | [@username](https://github.com/username)       |
 
 ---
 
