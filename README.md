@@ -1,6 +1,6 @@
 <!-- SHOWCASE: true -->
 
-# Image Denoising with Augmentation and Regularization
+# Impact of Data Augmentation and Regularization On Image Denoising
 
 > A CNN-based image denoising framework that systematically evaluates the impact of data augmentation and regularization strategies across multiple datasets and noise levels.
 
