@@ -118,7 +118,7 @@ Total Computation Time: 578.34 seconds
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/UCF-IntrotoNeuralNetworksDeepLearning-ImageDenoising.git
+git clone https://github.com/alexneilgreen/UCF-IntrotoNeuralNetworksDeepLearning-ImageDenoising.git
 cd UCF-IntrotoNeuralNetworksDeepLearning-ImageDenoising
 
 # 2. Install dependencies
